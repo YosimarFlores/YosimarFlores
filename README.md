@@ -65,8 +65,8 @@
 <h3><b><samp>Check out my Repositories</samp></b></h3>
 
 <span>
-<a href="https://github.com/YosimarFlores/Email-Unsubscribe-Project">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=YosimarFlores&repo=Email-Unsubscribe-Project" />
+<a href="https://github.com/YosimarFlores/EmailUnsubscriber">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=YosimarFlores&repo=EmailUnsubscriber" />
 </a>
 <a href="https://github.com/YosimarFlores/DiscordBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YosimarFlores&repo=DiscordBot" />
