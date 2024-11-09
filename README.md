@@ -67,7 +67,7 @@
 <a href="https://github.com/YosimarFlores/Email-Unsubscribe-Project">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=YosimarFlores&repo=Email-Unsubscribe-Project" />
 </a>
-<a href="https://github.com/amandewatnitrr/Aztecs-LogiTraffic">
+<a href="https://github.com/YosimarFlores/DiscordBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YosimarFlores&repo=DiscordBot" />
 </a>
   </span>
