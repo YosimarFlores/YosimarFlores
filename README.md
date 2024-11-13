@@ -55,11 +55,11 @@
 <h3><b><samp>Check out my Repositories</samp></b></h3>
 
 <span>
-<a href="https://github.com/YosimarFlores/UnsubscribeLinkFinder">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=YosimarFlores&repo=UnsubscribeLinkFinder" />
+<a href="https://github.com/YosimarFlores/DowloadOrganizer">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=YosimarFlores&repo=DowloadOrganizer" />
 </a>
-<a href="https://github.com/YosimarFlores/DiscordBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YosimarFlores&repo=DiscordBot" />
+<a href="https://github.com/YosimarFlores/UnsubscribeLinkFinder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YosimarFlores&repo=UnsubscribeLinkFinder" />
 </a>
   </span>
   
