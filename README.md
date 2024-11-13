@@ -55,8 +55,8 @@
 <h3><b><samp>Check out my Repositories</samp></b></h3>
 
 <span>
-<a href="https://github.com/YosimarFlores/DowloadOrganizer">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=YosimarFlores&repo=DowloadOrganizer" />
+<a href="https://github.com/YosimarFlores/DownloadOrganizer">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=YosimarFlores&repo=DownloadOrganizer" />
 </a>
 <a href="https://github.com/YosimarFlores/LinkFinder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YosimarFlores&repo=LinkFinder" />
