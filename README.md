@@ -24,6 +24,7 @@
 - 👨‍🎓 <samp><b>Computer Science Major at University of North Carolina at Charlotte</b>
 - 🔭 <samp>Associate Degree from Central Piedmont Comunity College
 - 💼 <samp>I’m looking for **Intership** Opportunities/roles.
+- 🖥️ <samp>I'm currently learning HTML and CSS.
 - 💬 <samp>Ask me about what projects Im working on!
 
 </div>
